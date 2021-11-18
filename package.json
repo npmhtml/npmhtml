@@ -1,0 +1,22 @@
+{
+  "name": "npmhtml",
+  "version": "1.0.0",
+  "description": "Make HTML instantly!",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npmhtml/npmhtml.git"
+  },
+  "keywords": [
+    "HTML"
+  ],
+  "author": "Jerwin D. Dela Cruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npmhtml/npmhtml/issues"
+  },
+  "homepage": "https://github.com/npmhtml/npmhtml#readme"
+}
