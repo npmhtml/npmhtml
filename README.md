@@ -1,4 +1,4 @@
-# What is this?
+# What is this? (NPM HTML)
 
 If you have no clue how to create an HTML file well this will help you to create one efficiently.
  
